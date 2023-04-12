@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome to my profile! 👋
 
-<!--
-**JuanitoDeLaTorre/JuanitoDeLaTorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stuff I'm Working On 🧐:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Express JS
+- Django
+- React
 
-Here are some ideas to get you started:
+### Non-tech Stuff I'm Interested In 😀:
+- Photograhpy! I'm kind of big on [Unsplash](https://unsplash.com/@capturelight) 💁‍♀️
+- Singing 🎶
+- Yo-yoing 🪀
+- Gaming 🕹️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
